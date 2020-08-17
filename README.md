@@ -13,7 +13,8 @@ Só fazer a assinatura do BBS Bot e receber em casa produtos personalizados, com
 ![alt text](https://github.com/uandisson/bbsBotDiscord/blob/master/ajuda.png?raw=true)
 
 # Time
-Jhonata Carlos
-Olívia Boretti
-Sebastião Neto
-Uandisson Miranda
+* Jonatha Carlos - @jonathacnb
+* Olívia Boretti - @olivesboretti
+* Sebastião Neto - @tiao.vaqueiro
+* Uandisson Miranda - @uandisson
+
